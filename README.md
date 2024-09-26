@@ -1,1 +1,1 @@
-# Khmer-OCR
+# Khmer-OCR-iHub-Lab
